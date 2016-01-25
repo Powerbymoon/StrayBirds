@@ -61,7 +61,7 @@ p {
 }
 
 footer p {
-  color: #f2f2f2;
+  color: #8cc24a;
 }
 
 a {
@@ -73,7 +73,7 @@ a {
 a:hover, a:focus {text-decoration: underline;}
 
 footer a {
-  color: #F2F2F2;
+  color: #8cc24a;
   text-decoration: underline;
 }
 
@@ -111,7 +111,7 @@ p img {
 
 pre, code {
   width: 100%;
-  color: #222;
+  color: #ebebeb;
   background-color: #fff;
 
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
@@ -194,7 +194,7 @@ hr {
 }
 
 table {
-  border: 1px solid #373737;
+  border: 1px solid #ebebeb;
   margin-bottom: 20px;
   text-align: left;
  }
@@ -208,11 +208,11 @@ th {
 
 td {
   padding: 10px;
-  border: 1px solid #373737;
+  border: 1px solid #ebebeb;
  }
 
 form {
-  background: #f2f2f2;
+  background: #ebebeb;
   padding: 20px;
 }
 
