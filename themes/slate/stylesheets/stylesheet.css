@@ -12,8 +12,8 @@ Theme Styles
 
 body {
   box-sizing: border-box;
-  color:#373737;
-  background: #212121;
+  color:#8cc24a;
+  background: #8cc24a;
   font-size: 18px;
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -66,7 +66,7 @@ footer p {
 
 a {
   text-decoration: none;
-  color: #007edf;
+  color: #87ba55;
   text-shadow: none;
 }
 
