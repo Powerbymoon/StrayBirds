@@ -122,7 +122,7 @@ safe: false
 highlighter: pygments
 title: 一个伪程序员的创业故事
 description: 时机已到，今日起兵
-theme: minimal
+theme: slate
 disqusname: minixalpha
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
