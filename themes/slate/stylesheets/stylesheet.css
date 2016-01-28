@@ -91,13 +91,13 @@ img {
   max-width: 739px;
   padding: 5px;
   margin: 10px 0 10px 0;
-  border: 1px solid #ebebeb;
+  border: 1px solid #8cc24a;
 
   box-shadow: 0 0 5px #ebebeb;
-  -webkit-box-shadow: 0 0 5px #ebebeb;
-  -moz-box-shadow: 0 0 5px #ebebeb;
-  -o-box-shadow: 0 0 5px #ebebeb;
-  -ms-box-shadow: 0 0 5px #ebebeb;
+  -webkit-box-shadow: 0 0 5px #8cc24a;
+  -moz-box-shadow: 0 0 5px #8cc24a;
+  -o-box-shadow: 0 0 5px #8cc24a;
+  -ms-box-shadow: 0 0 5px #8cc24a;
 }
 
 p img {
@@ -111,8 +111,8 @@ p img {
 
 pre, code {
   width: 100%;
-  color: #ebebeb;
-  background-color: #fff;
+  color: #8cc24a;
+  background-color: #ffffff;
 
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   font-size: 14px;
@@ -141,10 +141,10 @@ pre code {
 }
 
 blockquote {
-  color: #666;
+  color: #8cc24a;
   margin: 0 0 20px 2px;
   padding-left: 20px;
-  border-left: 3px solid #bbb;
+  border-left: 3px solid #8cc24a;
   font-style: italic;
 }
 
@@ -194,7 +194,7 @@ hr {
 }
 
 table {
-  border: 1px solid #ebebeb;
+  border: 1px solid #8cc24a;
   margin-bottom: 20px;
   text-align: left;
  }
@@ -203,16 +203,16 @@ th {
   font-family: 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   padding: 10px;
   background: #8bc24a;
-  color: #fff;
+  color: #ffffff;
  }
 
 td {
   padding: 10px;
-  border: 1px solid #ebebeb;
+  border: 1px solid #8cc24a;
  }
 
 form {
-  background: #ebebeb;
+  background: #8cc24a;
   padding: 20px;
 }
 
@@ -238,8 +238,8 @@ Full-Width Styles
   right: 10px;
   z-index: 10;
   padding: 10px 50px 10px 10px;
-  color: #fff;
-  background: url('../images/blacktocat.png') #0090ff no-repeat 95% 50%;
+  color: #ffffff;
+  background: url('../images/blacktocat.png') #8cc24a no-repeat 95% 50%;
   font-weight: 700;
   box-shadow: 0 0 10px rgba(0,0,0,.5);
   border-bottom-left-radius: 2px;
@@ -247,7 +247,7 @@ Full-Width Styles
 }
 
 #header_wrap {
-  background: #212121;
+  background: #8cc24a;
 }
 
 #header_wrap .inner {
@@ -320,7 +320,7 @@ Full-Width Styles
 }
 
 #footer_wrap {
-  background: #212121;
+  background: #8cc24a;
 }
 
 /*******************************************************************************
