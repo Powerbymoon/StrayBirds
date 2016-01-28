@@ -116,12 +116,12 @@ disqus:
 #################################### global configure #######################################
 
 username: Powerbymoon
-baseurl: /moon
+baseurl: /android
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: 一个伪程序员的创业故事
-description: 时机已到，今日起兵
+title: 一个伪程序员的心路历程
+description: 时机已到 今日当立
 theme: slate
 disqusname: minixalpha
 
